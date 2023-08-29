@@ -60,6 +60,8 @@ h1 {
     color: var(--Very-light-gray);
     margin: 20px 10px;
     font-family: 'Big Shoulders Display', cursive;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 p {
